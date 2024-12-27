@@ -34,8 +34,8 @@ const ChristmasCard = () => {
           Christmas
         </div>
         <div className="wishes">
-          Wishing you a Christmas filled with love, joy, and all the things that
-          make you smile. You make my days brighter!
+          Wishing you a Christmas filled with endless love, boundless joy, and all the little things that
+          make your heart smile. You light up my life everyday!
         </div>
         <div className="gift">
           <div className="bow"></div>
